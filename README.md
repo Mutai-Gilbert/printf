@@ -1,1 +1,1 @@
-Collaborative Projects on Printf format between Gloria and Mutai
+Collaborative Projects on Printf
